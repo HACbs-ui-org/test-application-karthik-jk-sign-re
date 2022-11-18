@@ -3,6 +3,7 @@ bases:
 - components/multi-python/base
 - components/nodeapp/base
 - components/nodejs-test/base
+- components/nodejs-testapp/base
 - components/nodejs/base
 - components/python/base
 kind: Kustomization
