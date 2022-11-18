@@ -3,5 +3,4 @@ bases:
 - components/nodeapp/base
 - components/nodejs-testapp/base
 - components/nodejs/base
-- components/python/base
 kind: Kustomization
