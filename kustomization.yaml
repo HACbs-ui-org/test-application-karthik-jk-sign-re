@@ -1,6 +1,5 @@
 apiVersion: kustomize.config.k8s.io/v1beta1
 bases:
-- components/multi-python/base
 - components/nodeapp/base
 - components/nodejs-test/base
 - components/nodejs-testapp/base
